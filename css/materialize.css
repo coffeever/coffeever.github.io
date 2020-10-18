@@ -5209,7 +5209,7 @@ html {
   line-height: 1.5;
   font-family: "Roboto", sans-serif;
   font-weight: normal;
-  color: rgba(0, 0, 0, 0.87); }
+  color: #b6710d; }
   @media only screen and (min-width: 0) {
     html {
       font-size: 14px; } }
@@ -6775,7 +6775,7 @@ ul.side-nav {
     ul.side-nav li:hover, ul.side-nav li.active {
       background-color: #ddd; }
   ul.side-nav a {
-    color: #444; }
+    color: #b6710d; }
 
 .drag-target {
   height: 100%;

@@ -1,6 +1,6 @@
 nav ul a,
 nav .brand-logo {
-  color: #444;
+  color: #ffffff;
 }
 
 p {
@@ -69,13 +69,13 @@ footer.page-footer {
  	color:black;
  }
  .purple.lighten-1 {
-  background-color: #333741 !important;
+  background-color: #744809 !important;
 }
 .teal-text.text-lighten-2 {
   color: #f8f8f9 !important;
   font-family: Segoe UI;
   font-weight: 600;
-  text-shadow: black 0px 0px 5px;
+  text-shadow: SaddleBrown 0px 0px 5px;
 }
 .share-buttons{
 	list-style: none;
@@ -95,6 +95,14 @@ nav li a {
 }
 
 #teammember{
-  color:#0b0c2f;
+  color:#b6710d;
   font-size:20px;
+}
+
+.customnav{
+  background-color:#744809 !important;
+}
+.head-link:hover{
+  background-color:white;
+  color:#b6710d;
 }
